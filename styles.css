@@ -39,25 +39,25 @@ h3 {
 
 .top {
   padding-top: 100px;
-  padding-bottom: 50px;
+  padding-bottom: 0px;
 }
 .topic {
-  position: absolute;
+  position: relative;
   color: #5A8F7B;
-  left: 520px;
-  top: 70px;
 }
 .developer {
-  position: absolute;
-  left: 620px;
-  top: 310px;
+  position: relative;
+  top: 140px;
+  left: 100px;
+
 }
 
 .cloud-left {
   width: 10%;
   height: 10%;
   position: relative;
-  bottom: 450px;
+  bottom: 600px;
+  left: 200px;
 
 }
 
@@ -65,36 +65,41 @@ h3 {
   width: 10%;
   height: 10%;
   position: relative;
-  left: 430px;
-  bottom: 350px;
+  left: 500px;
+  bottom: 550px;
 
 }
 .cloud-1 {
   width: 10%;
   height: 10%;
-  position: absolute;
-  top: 230px;
-  right: 1000px;
+  position: relative;
+  bottom: 400px;
+  right: 250px;
 
 }
 
 .cloud-2 {
   width: 10%;
   height: 10%;
-  position: absolute;
-  left: 1000px;
-  top: 300px;
+  position: relative;
+  bottom: 400px;
+  left: 400px;
 
 }
 .wave {
   width: 30%;
   height: 30%;
   padding: 30px;
+  margin-bottom: 0;
   position: relative;
-  top:50px;
-  right: 150px;
+  right: 250px;
+  bottom: 70px;
   transform: rotate(-20deg)
 
+}
+.head-line {
+  margin-top: 0px;
+  padding-top: 0;
 }
 .profile {
 
