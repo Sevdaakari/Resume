@@ -1,24 +1,24 @@
 
 
 body {
-margin: 0;
-text-align: center;
-background-color: #CEE5D0;
-font-size: 1rem;
-font-family: 'Goldman', cursive;
-font-weight: normal;
-color: #5A8F7B;
+  margin: 0;
+  text-align: center;
+  background-color: #CEE5D0;
+  font-size: 1rem;
+  font-family: 'Goldman', cursive;
+  font-weight: normal;
+  color: #5A8F7B;
 }
 
 hr {
-border-style: none;
-border-bottom: 6px dotted #FFFBEB;
-width: 5%;
-height: 0px;
-margin-top: 50px;
-margin-bottom: 50px;
-margin-left: auto;
-margin-right: auto;
+  border-style: none;
+  border-bottom: 6px dotted #FFFBEB;
+  width: 5%;
+  height: 0px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 h1 {
