@@ -159,7 +159,7 @@ h3 {
   width: 5%;
   height: 5%;
   position: relative;
-  LEFT: 50px;
+  LEFT: 55px;
 
 }
 .btn {
@@ -172,7 +172,7 @@ h3 {
   border-radius: 8px;
   background: #FFE6BC;
   position: relative;
-  right: 60px;
+  right: 70px;
   top: 30px;
 }
 .btn:hover {
