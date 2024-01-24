@@ -121,13 +121,6 @@ h3 {
   bottom: 20px;
 
 }
-.img-experience {
-  padding: 20px;
-  width: 7%;
-  height: 7%;
-  position: relative;
-  margin: 0;
-}
 
 .skill-row1 {
   text-align-last: left;
@@ -136,10 +129,19 @@ h3 {
 
 .skill-row2 {
   text-align-last: left;
-  left: 10px;
-  top: 5px;
+/*   left: 10px;
+  top: 5px; */
   position: relative;
 }
+
+.img-experience {
+  padding: 20px;
+  width: 7%;
+  height: 7%;
+  position: relative;
+  margin: 0;
+}
+
 .img-skills {
   padding: 20px;
   width: 7%;
