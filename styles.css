@@ -135,9 +135,9 @@ h3 {
 }
 
 .skill-row2 {
-  text-align-last: right;
-  left: 50px;
-  top: 10px;
+  text-align-last: left;
+  left: 10px;
+  top: 5px;
   position: relative;
 }
 .img-skills {
