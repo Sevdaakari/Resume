@@ -124,12 +124,12 @@ h3 {
 }
 
 .skill-row1 {
-  text-align-last: left;
+  text-align-last: center;
   position: relative;
 }
 
 .skill-row2 {
-  text-align-last: left;
+  text-align-last: center;
 /*   left: 10px;
   top: 5px; */
   position: relative;
