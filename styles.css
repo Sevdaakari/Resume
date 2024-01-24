@@ -121,7 +121,13 @@ h3 {
   bottom: 20px;
 
 }
-
+.img-experience {
+  padding: 20px;
+  width: 7%;
+  height: 7%;
+  position: relative;
+  margin: 0;
+}
 
 .skill-row1 {
   text-align-last: left;
