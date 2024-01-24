@@ -130,7 +130,8 @@ h3 {
 
 .skill-row2 {
   text-align-last: right;
-  left: 50px;
+  left: 150px;
+  top: 100px;
   position: relative;
 }
 .img-skills {
