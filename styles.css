@@ -123,10 +123,15 @@ h3 {
 }
 
 
-.skill-row {
-  text-align-last: center;
+.skill-row1 {
+  text-align-last: left;
   position: relative;
+}
 
+.skill-row2 {
+  text-align-last: right;
+  left: 50px;
+  position: relative;
 }
 .img-skills {
   padding: 20px;
